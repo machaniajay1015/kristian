@@ -1,0 +1,27 @@
+Ad-Hoc Testing (AT): 
+   Testing the application randomly without referring to the requirements is k.a., AT.
+   
+It is -ve testing. Here we dont refer to requirements. We just randomly perform the testing.
+
+It is also k.a., Random Testing, Monkey Testing OR Gorilla Testing
+
+
+Q: When to do AT?
+Ans: AT is not a mandatory Testing. But it is recommended. Hence it should be done after completion of all the testings provided If you have a time.
+
+
+Q: Does Test cases are required for AT?
+Ans: No.
+
+
+Q: Why ad-hoc Testing is required?
+Ans: Customer can encounter the issues when they use the s/w randomly. We don't want our customer to face the issues when they use the s/w randomly. Hence we act as customer OR end user & perform AT.
+
+
+Note: Most of the ad-Hoc defects are invalid. It will we considered valid only when the issue is having impact on the business.
+
+
+Q: What QA has to do If they find blocker OR critical defects during AT?
+Ans:  
+  (a) QA should log the blocker defects immediately against the dev.
+  (b) QA must document the defect (Write the Test case). So that the same idea will be executed over all the builds.
